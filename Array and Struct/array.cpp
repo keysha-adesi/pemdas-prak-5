@@ -22,6 +22,7 @@ int main()
 
     cout << "Isikan data kedua : ";
     cin >> datamu [1];
+    cout << "isikan data ketiga : ";
     
 
     return 0;
