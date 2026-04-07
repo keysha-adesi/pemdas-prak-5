@@ -7,7 +7,7 @@ int main()
     int dataku[5] = {10, 20, 30, 40, 50};
 
     // Deklarasi tanpa inisialisasi
-    int datau[5];
+    int datamu[5];
 
     // Cara akses (membaca atau mengambil isi array)
     cout << "Isi data kedua : " << dataku[1] << endl;
@@ -18,7 +18,7 @@ int main()
 
     // Mengisi data dengan perintah satu persatu
     cout << "Isikan data pertama : ";
-    cin >> datau[0];
+    cin >> datamu[0];
 
     cout << "Isikan data kedua : ";
     cin >> datau[1];
