@@ -21,7 +21,7 @@ int main()
     cin >> datamu[0];
 
     cout << "Isikan data kedua : ";
-    cin >> datau[1];
+    
 
     return 0;
 }
